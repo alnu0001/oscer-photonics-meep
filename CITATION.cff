@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this environment or workflow, please cite this repository and the canonical Meep software paper."
+title: "OSCER Photonics Meep: Reproducible MPI-Enabled FDTD Environment and SOI Waveguide Benchmark"
+type: software
+authors:
+  - family-names: "Al-Nusairi"
+    given-names: "Ahmed"
+version: "1.0.0"
+date-released: "2026-10-03"
+license: "BSD-3-Clause"
+keywords:
+  - computational photonics
+  - Meep
+  - FDTD
+  - silicon photonics
+  - SOI waveguide
+  - MPI
+  - OSCER
+  - high-performance computing
+  - reproducibility
+references:
+  - type: article
+    authors:
+      - family-names: "Oskooi"
+        given-names: "Ardavan F."
+      - family-names: "Roundy"
+        given-names: "David"
+      - family-names: "Ibanescu"
+        given-names: "Mihai"
+      - family-names: "Bermel"
+        given-names: "Peter"
+      - family-names: "Joannopoulos"
+        given-names: "John D."
+      - family-names: "Johnson"
+        given-names: "Steven G."
+    title: "MEEP: A flexible free-software package for electromagnetic simulations by the FDTD method"
+    journal: "Computer Physics Communications"
+    volume: "181"
+    year: "2010"
+    start: "687"
+    end: "702"
