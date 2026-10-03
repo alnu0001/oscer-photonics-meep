@@ -1,0 +1,11 @@
+name: photonics_mpi
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pymeep=1.34.0=mpi_mpich_*
+  - mpich
+  - mpi4py
+  - numpy
+  - scipy
+  - matplotlib
