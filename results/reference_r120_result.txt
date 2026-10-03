@@ -1,0 +1,21 @@
+Bare SOI waveguide r120 reference result
+
+Resolution: 120 pixels/um
+MPI ranks: 160
+Nodes: 8
+Timesteps: 60005
+Meep termination time: 250.02083333333334
+Field decay ratio: 1.4978980551198973e-14
+
+Forward TE0 input power  = 2.402597482510e+02
+Forward TE0 output power = 2.402686898203e+02
+Transmission T           = 1.00003722
+Transmission             = 100.003722 %
+Transmission yield       = 100.003722 %
+Input backward ratio     = 1.49296142e-07
+Output backward ratio    = 1.53197790e-07
+
+Meep elapsed run time = 5920.7057 s
+SLURM state = COMPLETED
+SLURM exit code = 0:0
+SLURM elapsed = 01:39:07
