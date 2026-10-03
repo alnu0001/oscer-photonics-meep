@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Meep / HDF5 output
+*.h5
+*.hdf5
+
+# OSCER logs and local generated result files
+logs/
+results/waveguide_r*_mpi*.csv
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+*~
